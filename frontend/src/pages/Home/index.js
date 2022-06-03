@@ -1,11 +1,14 @@
 import './index.css';
-
+import NavBar from '../../components/NavBar/index';
 
 function Home() {
   return (
-    <div >
-        <a>Olá </a>
+    <>
+    <NavBar/>
+    <div>
+        <a></a>
     </div>
+    </>
   );
 }
 

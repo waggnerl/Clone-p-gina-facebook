@@ -11,8 +11,8 @@ function Login() {
             <div class="col">
               <div className='left'>
               <img src='https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg' alt='foto referente a logomarca do facebook'></img>
-              </div>
               <h2>O Facebook ajuda você a se conectar e compartilhar com as pessoas que fazem parte da sua vida.</h2>
+              </div>
             </div>
             <div class="col">
               <div className='right'>
